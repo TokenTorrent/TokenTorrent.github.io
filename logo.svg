@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- Hexagonal security boundary -->
+  <polygon points="24,4 44,14 44,34 24,44 4,34 4,14" stroke="#00D4AA" stroke-width="1.5" fill="none"/>
+
+  <!-- Three product nodes in triangle formation -->
+  <circle cx="24" cy="15" r="3.5" fill="#00D4AA"/>
+  <circle cx="14" cy="32" r="3.5" fill="#3B82F6"/>
+  <circle cx="34" cy="32" r="3.5" fill="#3B82F6"/>
+
+  <!-- Flowing connections (torrent) between nodes -->
+  <path d="M24 18C22 22 18 26 16 30" stroke="#00D4AA" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+  <path d="M24 18C26 22 30 26 32 30" stroke="#00D4AA" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+  <path d="M16 30C20 32 28 32 32 30" stroke="#00D4AA" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+</svg>
